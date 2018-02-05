@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MongoXmlTutorial": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\books.xml"
+    }
+  }
+}
